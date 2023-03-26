@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\028. parosszamokhetventolhuszonotig\028. parosszamokhetventolhuszonotig\bin\Debug\_028.parosszamokhetventolhuszonotig.exe.config
+C:\Users\gratt\source\repos\028. parosszamokhetventolhuszonotig\028. parosszamokhetventolhuszonotig\bin\Debug\_028.parosszamokhetventolhuszonotig.exe
+C:\Users\gratt\source\repos\028. parosszamokhetventolhuszonotig\028. parosszamokhetventolhuszonotig\bin\Debug\_028.parosszamokhetventolhuszonotig.pdb
+C:\Users\gratt\source\repos\028. parosszamokhetventolhuszonotig\028. parosszamokhetventolhuszonotig\obj\Debug\028. parosszamokhetventolhuszonotig.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\028. parosszamokhetventolhuszonotig\028. parosszamokhetventolhuszonotig\obj\Debug\_028.parosszamokhetventolhuszonotig.exe
+C:\Users\gratt\source\repos\028. parosszamokhetventolhuszonotig\028. parosszamokhetventolhuszonotig\obj\Debug\_028.parosszamokhetventolhuszonotig.pdb
